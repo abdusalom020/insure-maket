@@ -1,0 +1,125 @@
+body{
+  margin: 0;
+}
+.logo-1{
+  background-color: #fff;
+  padding: 1em;
+
+}
+.style-money {
+  color: blue;
+}
+header{
+  background-color: #ddd;
+}
+.flag{
+  border-radius: 50px;
+
+}
+.header-link {
+  background-color: #fff;
+}
+.tele-logo{
+  background-color: dodgerblue;
+
+
+}
+.tele-logo a {
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+}
+nav{
+  background-color: #fff;
+}
+.header-nav a{
+
+  text-decoration: none;
+  color: black;
+}
+.covid{
+  background-color: #ddd;
+}
+
+.covid-1 {
+  color: red;
+}
+.covid-2{
+  color: green;
+}
+.div-header a{
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+}
+
+.aside {
+  background-color: rgb(238, 171, 171);
+
+}
+.aside a{
+  text-decoration: none;
+  color: white;
+  background-color: rgb(247, 115, 67);
+  border-radius: 6px;
+  font-weight: bold;
+  padding: 8px;
+}
+
+.part-bottom li {
+  list-style: none;
+
+}
+.part-bottom a{
+  text-decoration: none;
+  color: black;
+
+}
+.number time{
+  color: rgb(124, 124, 119);
+}
+.lim li{
+  list-style: none;
+}
+.lim a{
+  text-decoration: none;
+  color: black;
+}
+.button{
+
+}
+.button a{
+  text-decoration: none;
+  font-weight: bold;
+  background-color: rgb(53, 21, 233);
+  color:#fff;
+  padding: 10px;
+  border-radius: 10px;
+}
+.phone a{
+text-decoration: none;
+color: rgb(27, 117, 235);
+}
+.phone{
+  background-color: rgb(201, 197, 197);
+}
+.phones{
+  background-color: #ddd;
+}
+.footer-side{
+  background-color: rgb(21, 25, 214);
+}
+.footer-side li,p{
+  list-style: none;
+  color: rgb(255, 255, 255);
+
+}
+.footer-side a{
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-weight: bold;
+}
+.telegram{
+  background-color: #fff;
+  color: #000;
+}
